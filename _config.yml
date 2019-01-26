@@ -1,11 +1,11 @@
 # Site settings
 author: Steve Albonico
-title: 
+title: Coding, Drinking, Traveling
 header-img: img/home-bg.png
 email: salbonico@gmail.com
 copyright_name: Steve Albonico
 description: > # this means to ignore newlines until "baseurl:"
-  
+  There is no permanent record.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  salbonico
