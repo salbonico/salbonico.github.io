@@ -1,0 +1,18 @@
+---
+layout: post
+title:      "Away we go"
+date:       2019-04-21 05:36:12 +0000
+permalink:  away_we_go
+---
+
+Coding is awesome! I love the creativity in it, I love the magic of that feeling when you finally truely grasp how a concept works and you watch as every little piece slides into place. I love the rush of understanding concepts that were so foreign just a couple months ago, and to say I am addictied to coding youtubes is a little wierd but very true at this moment. Above all else, I love the way the coding industry talks and jokes. There are memes all over the place, even in the google learning presentations. Because while this is heavy, complicated stuff, it's still in it's own way this new art form. The ways of doing things 5 years ago are nothing like today, and tomorrow with serverless infrastructures and trustless security is even more exciting. And I feel great knowing that I will be a part of it all.
+
+I finished the final project. That was waaaaaay harder then the others. And unfortunately I would have to say I feel that it is due to the weakness of FlatIron's coursework. The good news is that I now know so so so much about async functions, ui frameworks, apis, and all of the little grey areas in between. But while the coursework took a normal amount of time for me to complete, it was increadably vague. And the tests were mostly broken and out dated. The courses barely touched on the fetch functions which are needed constantly, glosses over async and redirects to some guy's blog for how to connect to the Ruby backend. To be honest, this has basically been most of this school's curriculum. The ask a question crew is amazing, however, once you get into tougher conepts, you realize they are unfortunately just students from six months ago, and many times, their grasp isn't so great either on these concepts. And so, I turned to youtube. And it was hard, but great. And moving forward, I realize there is so much out there that I can turn to for help. 
+
+I honestly wonder though, whether FlatIron was worth it. For $5k, I would say sure, but I see they are now charging north of $10k. I just dont think that is worth the old tired curriculeam they barely update. Now luckily, I was able to work at this full time, and had ten years of IT career expierience, so i was able to figure out what I needed to know and have allready successfully landed a job. However, if I had to simply lean on the Flatiron curriculum. I would be pretty weary of my prospects to truely pass a tech interview. 
+
+So overall, I'ts been a heck of a journey and I feel like that was just the warm up. I am so thankful I made the choice to change my path and take on this new challenge. Coding is fun, and I hopw I keep this spirit as I move into developing real world solutions.
+
+Thanks,
+-Steve
+
